@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "appdevfgl02",
   "version": "0.0.0",
   "scripts": {
@@ -41,5 +42,10 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.7.2"
+=======
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3"
+>>>>>>> cc5b80e987d2556057437f8f13eccc6eca94253e
   }
 }

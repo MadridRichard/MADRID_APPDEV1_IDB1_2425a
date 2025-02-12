@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 100vh;
+  }
+  
+  app-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  
+  app-content {
+    margin-left: 220px; /* Offset content area for sidebar */
+    padding: 20px;
+  }
