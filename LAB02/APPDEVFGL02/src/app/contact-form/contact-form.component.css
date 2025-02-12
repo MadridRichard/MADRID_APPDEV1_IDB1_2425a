@@ -1,0 +1,16 @@
+form {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+  
+    .btn-block {
+      width: 100%;
+    }
+  }
+  
